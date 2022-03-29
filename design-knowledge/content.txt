@@ -1,0 +1,16 @@
+Data sources –
+https://api.superhi.com/api/test/quotes/
+https://api.superhi.com/api/test/quotes/random
+https://api.superhi.com/api/test/quotes/2
+
+Typography –
+Bluu Next
+https://velvetyne.fr/fonts/bluu/
+
+Generic: 24px at 1.25 line height
+Quote: 56px
+Long quote: 40px
+
+Colors –
+Default background: #cfffaf to #ffffff
+Text color: #000000

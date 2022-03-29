@@ -1,0 +1,19 @@
+Data source –
+Coindesk
+https://api.coindesk.com/v1/bpi/currentprice.json
+https://www.coindesk.com/api/
+
+Alternatives:
+https://exchangeratesapi.io/
+
+Typography –
+Space Mono
+@import url('https://fonts.googleapis.com/css?family=Space+Mono:400,700');
+
+Body size: 16px at 1.5 line height
+Price size: 30vmin
+
+Colors –
+Background: #000000
+Color: #ffffff
+Unselected: #999999
